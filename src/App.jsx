@@ -1,7 +1,3 @@
-function App() {
-  return (
-    <h1>Мой игровой хостинг работает!</h1>
-  );
+export default function App() {
+  return <h1>МОЙ ИГРОВОЙ ХОСТИНГ</h1>;
 }
-
-export default App;
