@@ -1,8 +1,7 @@
-export default function App() {
+function App() {
   return (
-    <div>
-      <h1>Мой игровой хостинг</h1>
-      <p>Панель управления</p>
-    </div>
+    <h1>Мой игровой хостинг работает!</h1>
   );
 }
+
+export default App;
