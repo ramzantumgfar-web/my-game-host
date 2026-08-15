@@ -1,0 +1,19 @@
+{
+  "name": "game-host",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^6.2.0",
+    "typescript": "^5.8.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.546.0"
+  },
+  "devDependencies": {}
+}
